@@ -10,10 +10,9 @@ Exchange API is an interface provided by Coinsuper for external developers.
 
 Update Log
 
-| Version   | modify date | comment               | Author  |
-| --------- | ----------- | --------------------- | ------- |
-| v1.0.1(R) | 20180626    | Create document       | liyong  |
-| v1.0.1(R) | 20180627    | Translated to English | joelchi |
+| Version   | modify date | comment         | Author |
+| --------- | ----------- | --------------- | ------ |
+| v1.0.1(R) | 20190114    | Create document | liyong |
 
 ------
 
